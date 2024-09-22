@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.7eb88fe1.css",
+    "main.js": "/Portfolio/static/js/main.ee30efb2.js",
+    "static/js/453.aac68abc.chunk.js": "/Portfolio/static/js/453.aac68abc.chunk.js",
+    "static/media/v2.mp4": "/Portfolio/static/media/v2.cfdd1cf7c9432a8e5ecf.mp4",
+    "static/media/v1.mp4": "/Portfolio/static/media/v1.2c28d7c2fb1879472b59.mp4",
+    "static/media/ocv.mp4": "/Portfolio/static/media/ocv.fba6996f2c09638e88d3.mp4",
+    "static/media/conatct.png": "/Portfolio/static/media/conatct.b2143e83b5e8a5c33ce4.png",
+    "static/media/por.jpg": "/Portfolio/static/media/por.21a5302373dce7d7422d.jpg",
+    "static/media/TW.jpg": "/Portfolio/static/media/TW.a50fd0b331dab17e0c0b.jpg",
+    "static/media/Wizz.jpg": "/Portfolio/static/media/Wizz.8f173febddddbdb81e13.jpg",
+    "static/media/image.png": "/Portfolio/static/media/image.a93fe309bc836a091a33.png",
+    "static/media/BUILT_MATE.jpg": "/Portfolio/static/media/BUILT_MATE.7da5bcf803d1f25d3acf.jpg",
+    "static/media/op.jpg": "/Portfolio/static/media/op.34dbad17e90d4a547eb0.jpg",
+    "static/media/BM.jpg": "/Portfolio/static/media/BM.bbff2cd0c96aa8ec57bb.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.7eb88fe1.css.map": "/Portfolio/static/css/main.7eb88fe1.css.map",
+    "main.ee30efb2.js.map": "/Portfolio/static/js/main.ee30efb2.js.map",
+    "453.aac68abc.chunk.js.map": "/Portfolio/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eb88fe1.css",
+    "static/js/main.ee30efb2.js"
+  ]
+}
